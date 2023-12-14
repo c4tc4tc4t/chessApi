@@ -1,0 +1,14 @@
+{
+  "name": "chess-api",
+  "version": "1.0.0",
+  "description": "API using stockfish for chess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "c4tc4tc4t",
+  "license": "ISC",
+  "dependencies": {
+    "stockfish.js": "^10.0.2"
+  }
+}
